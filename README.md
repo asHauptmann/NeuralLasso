@@ -6,10 +6,10 @@ available at https://doi.org/10.3389/fpls.2022.800161
 
 
 # File description
-call_GenoNet.py   - Main caller script that loads and prepares the data 
-GenoNet_Load.py   - Loader helper to load and set up datasctructure
-GenoNet_main.py   - Main class for the training
-sparsitySearch.py - Can be used to perform sparsity search to determine sparsity parameter
+- call_GenoNet.py   - Main caller script that loads and prepares the data 
+- GenoNet_Load.py   - Loader helper to load and set up datasctructure
+- GenoNet_main.py   - Main class for the training
+- sparsitySearch.py - Can be used to perform sparsity search to determine sparsity parameter
 
 # Data needed
 The sample scripts are prepared for rice field data publicly available at http://www.ricediversity.org/data/
